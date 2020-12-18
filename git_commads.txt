@@ -10,3 +10,8 @@ git add .
 git commit -m ""
 ##push all changes to git server
 git push
+
+
+git rm -rf --cached
+
+g++ *.cpp -o main.bin
