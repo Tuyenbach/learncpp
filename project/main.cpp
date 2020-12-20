@@ -3,8 +3,10 @@
 
 using namespace std;
 
-void main(){
+int main()
+{
+    Employee employee(1, "tuyen", "dinh", "bach", 11111, "1996-08-18", "da nang", 'M', 550, 22222, 5 );
 
-cout << "hello";
-
+    cout << "";
+    return 0;
 };

@@ -1,5 +1,8 @@
 #include "Employee.h"
+// construction function default
 Employee::Employee(){};
+
+// construction function parameters
 Employee::Employee(int ID, string FName, string MInit,string  LName,
 long SSN, string BDate, string Address, char Sex, int Salary, long SuperSSN, int DNO)
  {
