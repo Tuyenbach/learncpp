@@ -1,7 +1,5 @@
 #include "Figures.h"
 
-
-
 void Point2D::Set(double Xo, double Yo)
 {
     X = Xo;
