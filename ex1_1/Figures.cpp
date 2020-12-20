@@ -1,14 +1,6 @@
 #include "Figures.h"
 
 
-Point2D::Point2D(/* args */)
-{
-}
-
-Point2D::~Point2D()
-{
-}
-
 
 void Point2D::Set(double Xo, double Yo)
 {
