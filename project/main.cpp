@@ -1,5 +1,7 @@
 #include <iostream>
 #include "business/Employee.h"
+#include "business/Department.h"
+#include "business/DeptLocations.h"
 
 using namespace std;
 
