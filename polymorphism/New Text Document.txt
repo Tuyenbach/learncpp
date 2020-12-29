@@ -1,0 +1,1 @@
+g++ main.cpp Figure.cpp Rectangle.cpp Ellipse.cpp Circle.cpp -o main.exe
