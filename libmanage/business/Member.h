@@ -1,5 +1,5 @@
-#ifndef _library_manage_business_member_h_
-#define _library_manage_business_member_h_
+#ifndef lib_manager_business_member_h
+#define lib_manager_business_member_h
 
 #include <iostream>
 #include <string>
@@ -14,12 +14,12 @@ private:
 
 public:
     Member();
-    Member(int memberID, string memberName);
-    Member(string memberName);
+    Member(int memberid, string membername);
+    Member(string membername);
     ~Member();
 
     int GetMemberID();
-    void SetMemberID(int id);
+    void SetMemberID(int memberid);
 
     string GetMemberName();
     void SetMemberName(string membername);
